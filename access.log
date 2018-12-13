@@ -1,0 +1,23 @@
+POST /items/ 200 68 - 2.633 ms
+GET /items/ 200 148 - 0.663 ms
+::1 - - [13/Dec/2018:00:48:49 +0000] "POST /items/ HTTP/1.1" 200 68 "-" "insomnia/6.2.0"
+::1 - - [13/Dec/2018:00:48:51 +0000] "GET /items/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36"
+::1 - - [13/Dec/2018:00:48:52 +0000] "GET /items/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36"
+::1 - - [13/Dec/2018:00:48:54 +0000] "POST /items/ HTTP/1.1" 200 68 "-" "insomnia/6.2.0"
+::1 - - [13/Dec/2018:00:48:58 +0000] "GET /items/ HTTP/1.1" 200 191 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36"
+::1 - - [13/Dec/2018:00:48:58 +0000] "GET /favicon.ico HTTP/1.1" 404 150 "http://localhost:3000/items/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36"
+::1 - - [13/Dec/2018:00:49:55 +0000] "GET /items/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36"
+::1 - - [13/Dec/2018:00:49:56 +0000] "GET /items/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36"
+POST /items/ 200 68 - 2.759 ms
+POST /items/ 200 68 - 2.584 ms
+POST /items/ 200 68 - 0.315 ms
+GET /items/ 200 191 - 0.572 ms
+GET /items/ 200 191 - 0.168 ms
+GET /favicon.ico 404 150 - 1.877 ms
+GET /items/ 200 191 - 0.174 ms
+GET /favicon.ico 404 150 - 0.263 ms
+GET /items/ 200 191 - 0.160 ms
+GET /favicon.ico 404 150 - 0.211 ms
+GET /items/ 200 191 - 0.160 ms
+GET /favicon.ico 404 150 - 0.205 ms
+POST /items/ 200 - - 2.687 ms
